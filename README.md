@@ -14,6 +14,4 @@ The provided dataset contains 12k chemical compounds for 12 toxic effects.
 
 
 
-
-
-
+#### Observation: Removing correlated features reduce the processing time drastically
